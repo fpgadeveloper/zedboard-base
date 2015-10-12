@@ -9,7 +9,7 @@ To complete.
 
 ### Requirements
 
-* ISE Design Suite 14.7 or Vivado 2014.4
+* ISE Design Suite 14.7 or Vivado 2015.3
 * ZedBoard
 
 ### License
