@@ -14,7 +14,7 @@ http://www.fpgadeveloper.com/2014/07/creating-a-base-system-for-the-zynq-in-viva
 
 ## Requirements
 
-* ISE Design Suite 14.7 or Vivado 2016.4
+* ISE Design Suite 14.7 or Vivado 2017.1
 * ZedBoard
 
 ## Build instructions
