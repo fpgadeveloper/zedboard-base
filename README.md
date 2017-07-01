@@ -5,10 +5,11 @@ Base project for the ZedBoard
 
 ## Requirements
 
+This project is designed for Vivado 2017.2. If you are using an older version of Vivado, then you *MUST* use an older version
+of this repository. Refer to the [list of commits](https://github.com/fpgadeveloper/ethernet-fmc-zynq-gem/commits/master "list of commits")
+to find links to the older versions of this repository.
+
 * ISE Design Suite 14.7 or Vivado 2017.2
-> This project is designed for Vivado 2017.2. If you are using an older version of Vivado, then you *MUST* use an older version
-> of this repository. Refer to the [list of commits](https://github.com/fpgadeveloper/zedboard-base/commits/master "list of commits")
-> to find links to the older versions of this repository.
 * ZedBoard
 
 ## Description
